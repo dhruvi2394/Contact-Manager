@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "85a4024a-1143-43a8-96f5-b6367f37251b",
+      "name": "Dhruvi Bhimani",
+      "email": "dhruvi@gmail.com"
+    },
+    {
+      "id": "e4f60998-6238-450c-bb40-09a428ebb7cf",
+      "name": "om bhimani",
+      "email": "om@gmail.com"
+    },
+    {
+      "id": "4237d33e-206e-45aa-8c45-513147cf7372",
+      "name": "keshvi",
+      "email": "keshvi@gmail.com"
+    }
+  ]
+}
